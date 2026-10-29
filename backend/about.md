@@ -40,3 +40,7 @@ git push -u origin main
 
 --
 npm cache clean --force //this is to clear log cache?
+
+--
+date : 10-29-25
+10:32 .. save deposit
